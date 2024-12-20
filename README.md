@@ -1,11 +1,11 @@
-## Info
-Bryce Jarboe
-brycejwork@gmail.com
-8583718741
-11820 Gehring Ct
-San Diego CA 92126
+# Info
+Bryce Jarboe\
+brycejwork@gmail.com\
+8583718741\
+11820 Gehring Ct\
+San Diego CA 92126\
 ---
-## Applications
+# Applications
 | Job Link | Resume |
 | ----------- | ----------- |
 | [2580044](https://www.amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025) | [SE1](aws_se1_resume.pdf) |
